@@ -1,9 +1,9 @@
-# Java VS
+# Kumaravelan's GitHub
 
-This repository contains simple Java programs I am practicing as a first-year student.
+This repository contains simple programs I am practicing as a first-year student.
 
 ## 📁 Contents
-- Basic Java programs
+- Basic programs
 - Variables and Operators
 - Conditional statements
 - Loops
@@ -12,4 +12,5 @@ This repository contains simple Java programs I am practicing as a first-year st
 ## 🚀 How to Run
 1. Install Java JDK
 2. Compile the program:
+
 
